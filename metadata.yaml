@@ -1,0 +1,48 @@
+_repo: The-Dawn-of-History-An-Introduction-to-Pre-Historic-Study_52030
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Keary, H. M. (Henry Mee)
+    alias: Keary, Henry Mee
+    birthdate: 1846
+    gutenberg_agent_id: '43902'
+    url: http://www.gutenberg.org/2009/agents/43902
+  - agent_name: Keary, Annie
+    alias: Keary, Anna Maria
+    birthdate: 1825
+    deathdate: 1879
+    gutenberg_agent_id: '41090'
+    url: http://www.gutenberg.org/2009/agents/41090
+creator:
+  author:
+    agent_name: Keary, C. F. (Charles Francis)
+    alias: Keary, Charles Francis
+    birthdate: 1848
+    deathdate: 1917
+    gutenberg_agent_id: '46638'
+    url: http://www.gutenberg.org/2009/agents/46638
+description: ''
+gutenberg_issued: '2016-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52030'
+  lccn: '05001640'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'History, Ancient'
+- !lcsh 'Mythology'
+- !lcsh 'Archaeology'
+- GITenberg
+tableOfContents: 'The earliest traces of man / C.F. Keary -- The second stone age
+  / C.F. Keary -- The growth of language / C.F. Keary -- Families of language / C.F.
+  Keary -- The nations of the Old World / C.F. Keary -- Early social life / H.M. Keary
+  -- The village community / H.M. Keary -- Religion / A. Keary -- Aryan religions
+  / C.F. Keary -- The other world / C.F. Keary -- Mythologies and folk-tales / C.F.
+  Keary -- Picture-writing / A. Keary -- Phonetic writing / A. Keary -- Conclusion
+  / C.F. Keary -- Appendix: Notes and authorities.'
+title: 'The Dawn of History: An Introduction to Pre-Historic Study'
+url: http://www.gutenberg.org/ebooks/52030
